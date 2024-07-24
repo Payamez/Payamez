@@ -2,7 +2,6 @@
 - 👀 I’m interested in Video editing and coding 
 - 🌱 I’m currently learning CS50 and prmiere pro
 - 📫 How to reach me? instagram = payam.ez
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I can play ping pong using a toothbrush as a racket
 
 <!---
