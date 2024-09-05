@@ -2,7 +2,6 @@
 - 👀 I’m interested in Video editing and coding 
 - 🌱 I’m currently learning CS50 and prmiere pro
 - 📫 How to reach me? instagram = payam.ez
-- ⚡ Fun fact: I can play ping pong using a toothbrush as a racket
 
 <!---
 Payamez/Payamez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
