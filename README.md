@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Payamez
 - 👀 I’m interested in juggling and coding 
-- 🌱 I’m currently learning Industrial engineering
+- 🌱 I’m currently studying Industrial engineering
 - 📫 How to reach me? instagram = payam.ez
 
 <!---
