@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Payamez
-- 👀 I’m interested in Video editing and coding 
-- 🌱 I’m currently learning CS50 and prmiere pro
+- 👀 I’m interested in juggling and coding 
+- 🌱 I’m currently learning Industrial engineering
 - 📫 How to reach me? instagram = payam.ez
 
 <!---
